@@ -1,0 +1,2 @@
+# Wolfman
+The Wolfman Game
